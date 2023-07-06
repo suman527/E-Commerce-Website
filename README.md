@@ -3,7 +3,7 @@ This is a simple e-commerce website built using HTML and CSS. The website showca
 
 ## Deployed Link
 ```
-https://64a0459357067b3fcd93f35f--startling-praline-c59f68.netlify.app/
+https://e-commerce-lovein-co.netlify.app/
 ````
 ## Features :
 The e-commerce website includes the following features:
