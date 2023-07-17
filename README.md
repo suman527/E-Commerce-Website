@@ -3,7 +3,7 @@ This is a simple e-commerce website built using HTML and CSS. The website showca
 
 ## Deployed Link
 ```
-https://e-commerce-lovein-co.netlify.app/
+https://suman527.github.io/E-Commerce-Website/
 ````
 ## Features :
 The e-commerce website includes the following features:
